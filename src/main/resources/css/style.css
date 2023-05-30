@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+
+}
+.row {
+    background-color: azure;
+    padding: auto;
+    text-align: center;
+}
+table {
+    font:100;
+    color: black;
+    text-align: center;
+}
+p{
+    color: brown;
+    size: 50;
+}
